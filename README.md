@@ -46,12 +46,12 @@ For UI/UX design we use Figma with the design build to guide.
 ## Reference
 
 - [Rocketseat - Ignite Trail](https://www.rocketseat.com.br/ignite)
-- [Vite] (https://vitejs.dev/guide/)
-- [React Hook Form Docs] (https://react-hook-form.com/get-started)
-- [Phosphor Icons lib] (https://github.com/phosphor-icons/phosphor-home#phosphor-icons)
-- [Styled-components docs] (https://styled-components.com/docs)
-- [Radix-UI docs] (https://www.radix-ui.com/docs/primitives/overview/getting-started)
-- [JSON server docs] (https://github.com/typicode/json-server)
+- [Vite](https://vitejs.dev/guide/)
+- [React Hook Form Docs](https://react-hook-form.com/get-started)
+- [Phosphor Icons lib](https://github.com/phosphor-icons/phosphor-home#phosphor-icons)
+- [Styled-components docs](https://styled-components.com/docs)
+- [Radix-UI docs](https://www.radix-ui.com/docs/primitives/overview/getting-started)
+- [JSON server docs](https://github.com/typicode/json-server)
 
 
 ## Contact
