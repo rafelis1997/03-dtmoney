@@ -16,7 +16,7 @@ For UI/UX design we use Figma with the design build to guide.
 
 ## Stacks
 
-**Front-end:** ReactJS, SaSS, TypeScript,
+**Front-end:** ReactJS, TypeScript, Styled-components, Radix-UI, JSON server, Axios, Figma
 
 ## Acquired Knowledge
 
