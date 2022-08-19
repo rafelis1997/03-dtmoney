@@ -9,9 +9,6 @@ This is a study project made to develop ReactJS and learn it's concepts.
 In this app I've build a cost controll app with a dashboard and a modal to create new transactions. The whole app is using a fake API so we can simulate delay
 on fetch requests and adapt our front-end with loading visual responses and prepare to future back-end implementation.
 
-In this project we focused in learning styled-components and cascade CSS, also i got development in understanding React Hooks, form building, 
-form validation with React Hook Form, ContextAPI, controlled and uncontrolled components, Axios with a fake API using JSON Server and performance goals with Context-Selectors lib
-
 The whole project keeps in mind accessibility too, you can navigaton through the app with the keyboard with no problem at all.
 
 For UI/UX design we use Figma with the design build to guide.
