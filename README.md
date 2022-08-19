@@ -38,10 +38,19 @@ For UI/UX design we use Figma with the design build to guide.
 
 ## Future updates
 
+- Back-end integration
+- User Login
+- Vercel deploy
 - Edit cost button
 - Delete cost button
 - Payment method label
 - Revenue vs Outcomes graph
+
+## Future updates
+
+Usage clone the github repository run `npm install` to install node dependency's, then:
+
+Use `npm run dev:server` to start fake api JSON server and `npm run dev` to start the app on your `https//localhost`
 
 ## Reference
 
